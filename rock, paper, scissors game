@@ -54,8 +54,6 @@ elif user_choice == computer_choice:
 else:
   print("Enter a valid choice")
 
-
-
 if user_choice == 0:
   print("Your Choice :\n",ascii_hand[0])
 elif user_choice == 1:
