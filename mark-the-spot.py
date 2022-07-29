@@ -13,3 +13,4 @@ map[vertical - 1] ="x"
 map[horizontal - 1] = "x"
 
 print(f"{row1}\n{row2}\n{row3}")
+
