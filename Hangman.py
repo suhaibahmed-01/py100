@@ -1,5 +1,5 @@
 import random
-import hangman_words, hangman_art
+import hangman_words, hangman_ascii
 
 
 print(hangman_art.logo)
@@ -48,4 +48,4 @@ while not end_of_game:
         print("You win.")
 
 
-    print(hangman_art.stages[lives])
+    print(hangman_ascii.stages[lives])
