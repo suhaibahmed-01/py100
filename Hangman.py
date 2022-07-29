@@ -49,3 +49,5 @@ while not end_of_game:
 
 
     print(hangman_ascii.stages[lives])
+
+    
