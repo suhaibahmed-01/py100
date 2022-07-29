@@ -60,3 +60,4 @@ elif user_choice == 1:
   print("Your Choice :\n",ascii_hand[1])
 else:
   print("Your Choice :\n",ascii_hand[2])
+
