@@ -1,5 +1,5 @@
 import random
-from art import logo
+from blackjack_logo import logo
 
 
 def deal_card():
