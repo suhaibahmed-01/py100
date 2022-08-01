@@ -1,5 +1,5 @@
 from replit import clear
-from art import logo
+from silent_auction_ascii import logo
 print(logo)
 
 
