@@ -17,7 +17,7 @@ def caesar_cipher(input_text, shift_number, cipher_method):
   print(f"\n\nYour {cipher_method}d text message is : {output_text}")
 
 
-from art import logo
+from caesar_cipher_logo import logo
 print("\n\t",logo)
 
 
